@@ -1,0 +1,175 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\uromo\Downloads\WebApplication1 (1)\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\uromo\Downloads\WebApplication1 (1)\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Autor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEF1dG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Autor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEF1dG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Autor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEF1dG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Autor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEF1dG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Autor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEF1dG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/CarritoDeCompra/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXENhcnJpdG9EZUNvbXByYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/CarritoDeCompra/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXENhcnJpdG9EZUNvbXByYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/CarritoDeCompra/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXENhcnJpdG9EZUNvbXByYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/CarritoDeCompra/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXENhcnJpdG9EZUNvbXByYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/CarritoDeCompra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXENhcnJpdG9EZUNvbXByYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Editorial/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEVkaXRvcmlhbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Editorial/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEVkaXRvcmlhbFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Editorial/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEVkaXRvcmlhbFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Editorial/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEVkaXRvcmlhbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Editorial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEVkaXRvcmlhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Libro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXExpYnJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Libro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXExpYnJvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Libro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXExpYnJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Libro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXExpYnJvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Libro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXExpYnJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFVzdWFyaW9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFVzdWFyaW9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFVzdWFyaW9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFVzdWFyaW9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFVzdWFyaW9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx
+
+[C:/Users/uromo/Downloads/WebApplication1 (1)/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbGljYXRpb24xXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-9sbmtubcgo
